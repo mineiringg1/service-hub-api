@@ -59,4 +59,4 @@ Certifique-se de ter o MySQL rodando na porta `3306` e configure seu usuário/se
 * **Relacionamentos `LAZY`:** Evita *N+1 Queries*, garantindo que as consultas ao banco não tragam o banco de dados inteiro na memória desnecessariamente.
 
 ## 👨‍💻 Autor
-Desenvolvido por **João Vitor Costa**. Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-costa-1b9a6254/)!
+Desenvolvido por **João Vitor Costa**. Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-costa-71b9a6254/)!
